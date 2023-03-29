@@ -9,7 +9,7 @@ public class Main {
 
         sun fero=new sun();
         fero.color="red";
-        fero.temperature=34234;   //made error for purpose
+        fero.temperature="34234";   //made error for purpose
         fero.heat="324324324K";
     }
 }
